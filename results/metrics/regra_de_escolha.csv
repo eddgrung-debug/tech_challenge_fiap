@@ -1,0 +1,4 @@
+modelo,roc_auc_media,diferenca_para_o_melhor,desvio_da_diferenca,empata_com_o_melhor,posicao_em_simplicidade
+logistic_regression,0.7512628263803341,0.009808958293847751,0.016568811599814083,True,0
+gradient_boosting,0.754881717887789,0.006190066786392786,0.012348406463026797,True,3
+random_forest,0.7610717846741817,0.0,0.0,True,4

@@ -1,0 +1,27 @@
+atributo,coluna,origem,IV,teste,p_valor,força
+Pior atraso anterior,HIST_WORST_STATUS,histórico,0.8451960026258706,Mann-Whitney,0.00785189470855431,forte
+Situação no mês anterior ao pedido,HIST_LAST_STATUS,histórico,0.27035372016493975,Mann-Whitney,0.0005858893061837655,média
+Tem conta anterior,HIST_HAS,histórico,0.17606841042816182,qui-quadrado,1.3287466157981715e-16,média
+Meses de histórico anterior,HIST_MONTHS,histórico,0.1670696802078494,Mann-Whitney,4.3793233615402415e-14,média
+Nº de contas anteriores,HIST_N_ACCOUNTS,histórico,0.14815040686482195,Mann-Whitney,2.5081397919757764e-16,média
+Ocupação,OCCUPATION_TYPE,cadastro,0.13737676856963063,qui-quadrado,0.00010233445719686365,média
+Fração dos meses anteriores com algum atraso,HIST_SHARE_LATE,histórico,0.13100242560261416,Mann-Whitney,1.6900312312740902e-08,média
+Meses anteriores com atraso 30+,HIST_MONTHS_30PLUS,histórico,0.11392268425322225,Mann-Whitney,7.931448566630149e-17,média
+Tempo de emprego (anos),YEARS_EMPLOYED,cadastro,0.09943366636316933,Mann-Whitney,4.517832870162643e-08,fraca
+Estado civil,NAME_FAMILY_STATUS,cadastro,0.07275872800182594,qui-quadrado,6.116243583619107e-07,fraca
+Fração da vida adulta empregado,EMPLOYED_SHARE,cadastro,0.07086225639362749,Mann-Whitney,2.5314225773240745e-06,fraca
+Tipo de renda,NAME_INCOME_TYPE,cadastro,0.07071891910529819,qui-quadrado,1.7752940236784364e-05,fraca
+Tipo de moradia,NAME_HOUSING_TYPE,cadastro,0.03877471495237799,qui-quadrado,0.0019529174987600797,fraca
+Tamanho da família,CNT_FAM_MEMBERS,cadastro,0.0308809262134082,Mann-Whitney,0.06675616440652694,fraca
+Gênero,CODE_GENDER,cadastro,0.028792340905237773,qui-quadrado,0.0011445379547690621,fraca
+Possui imóvel,FLAG_OWN_REALTY,cadastro,0.02681352284423106,qui-quadrado,0.001744585083748512,fraca
+Sem vínculo de emprego,FLAG_NO_JOB,cadastro,0.019834774695283032,qui-quadrado,0.006196597730623037,inútil
+Idade (anos),AGE_YEARS,cadastro,0.017590686425630123,Mann-Whitney,0.5513560061832585,inútil
+Escolaridade,NAME_EDUCATION_TYPE,cadastro,0.014271186168020505,qui-quadrado,0.1993104376907398,inútil
+Nº de filhos,CNT_CHILDREN,cadastro,0.01153759063100574,Mann-Whitney,0.9488842911991143,inútil
+Telefone fixo,FLAG_PHONE,cadastro,0.00623131507907823,qui-quadrado,0.14728247033928918,inútil
+Renda anual,AMT_INCOME_TOTAL,cadastro,0.00608086806847646,Mann-Whitney,0.39687371810699057,inútil
+Renda por membro da família,INCOME_PER_MEMBER,cadastro,0.00559211293366161,Mann-Whitney,0.2795854652303992,inútil
+Possui carro,FLAG_OWN_CAR,cadastro,0.0022016295618140927,qui-quadrado,0.39480505585182657,inútil
+E-mail,FLAG_EMAIL,cadastro,0.0006343917502447462,qui-quadrado,0.6491920610649855,inútil
+Telefone comercial,FLAG_WORK_PHONE,cadastro,0.0004158122389727463,qui-quadrado,0.7652390259789608,inútil

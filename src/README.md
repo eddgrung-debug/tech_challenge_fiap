@@ -7,8 +7,10 @@ entre notebooks, ele deveria estar aqui.
 |---|---|
 | `config.py` | caminhos, semente, constantes |
 | `data.py` | carregar e salvar datasets |
-| `preprocessing.py` | limpeza, escala, feature engineering |
-| `models.py` | definição e treino dos modelos |
-| `evaluation.py` | métricas e gráficos de avaliação |
+| `preprocessing.py` | limpeza, definição do alvo, feature engineering |
+| `models.py` | split agrupado por cliente, pipelines, validação cruzada, busca de hiperparâmetros |
+| `evaluation.py` | métricas, limiar, política de corte, IV, importância por permutação |
+| `plots.py` | estilo e gráficos reutilizados |
+| `predict.py` | uso do modelo treinado em novos pedidos |
 
 Nos notebooks: `from src.config import RANDOM_STATE`

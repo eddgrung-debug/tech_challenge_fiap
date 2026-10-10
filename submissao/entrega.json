@@ -1,9 +1,15 @@
 {
-  "turma": "12DTAT",
-  "grupo": "Grupo 00",
+  "turma": "Pós Tech - Data Analytics",
+  "grupo": "Grupo 47",
   "integrantes": [
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" },
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" }
+    {
+      "nome": "Eduardo Henrique Neves",
+      "rm": "RM377826"
+    },
+    {
+      "nome": "Elizangela Moreira de Souza",
+      "rm": "RM377829"
+    }
   ],
   "links": {
     "repositorio": "https://github.com/usuario/nome-do-repositorio",
