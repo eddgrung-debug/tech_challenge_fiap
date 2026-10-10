@@ -81,6 +81,7 @@ cada mau. Esse desbalanceamento define a escolha das métricas e o tratamento no
 | Linhas × colunas | `application_record.csv`: 438.557 × 18 · `credit_record.csv`: 1.048.575 × 3 |
 | Após o tratamento | 24.566 contas × 32 colunas (26 atributos, alvo, identificadores e colunas de auditoria) |
 | Período / versão | 61 meses de histórico, em meses relativos à extração (0 = mês atual, −60 = cinco anos antes) |
+| Licença de uso | dataset público de uso educacional; consultar os termos na [página do dataset no Kaggle](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction) |
 
 Descrição das variáveis originais:
 
