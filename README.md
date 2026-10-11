@@ -28,9 +28,9 @@ pagador, com pipeline reprodutível do dado bruto às métricas de validação.
 
 | Item | Link |
 |---|---|
-| Repositório | <!-- PREENCHER: URL pública do GitHub --> |
-| Vídeo executivo (≤ 5 min) | <!-- PREENCHER: YouTube não listado / Drive com acesso liberado --> |
-| Apresentação | <!-- PREENCHER: link do arquivo em `docs/` ou Drive --> |
+| Repositório | https://github.com/eddgrung-debug/tech_challenge_fiap.git |
+| Vídeo executivo (≤ 5 min) | https://youtu.be/lJSZhKOQ2FM |
+| Apresentação | https://github.com/eddgrung-debug/tech_challenge_fiap/blob/64390d4ea982d03ed5a3a6242b17462d44f88750/docs/Apresentacao_TechChallenge_Fase2.pdf |
 
 ---
 
