@@ -11,7 +11,7 @@ pagador, com pipeline reprodutível do dado bruto às métricas de validação.
 
 | Campo | Valor |
 |---|---|
-| Turma | Pós Tech — Data Analytics |
+| Turma | 12DTAT |
 | Grupo | Grupo 47 |
 | Data de entrega | 10/10/2026 |
 
