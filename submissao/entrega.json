@@ -1,5 +1,5 @@
 {
-  "turma": "Pós Tech - Data Analytics",
+  "turma": "12DTAT",
   "grupo": "Grupo 47",
   "integrantes": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "links": {
-    "repositorio": "https://github.com/usuario/nome-do-repositorio",
-    "video": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
-    "apresentacao": "https://github.com/usuario/nome-do-repositorio/blob/main/docs/apresentacao_executiva.pdf"
+    "repositorio": "https://github.com/eddgrung-debug/tech_challenge_fiap.git",
+    "video": "https://youtu.be/lJSZhKOQ2FM",
+    "apresentacao": "https://github.com/eddgrung-debug/tech_challenge_fiap/blob/64390d4ea982d03ed5a3a6242b17462d44f88750/docs/Apresentacao_TechChallenge_Fase2.pdf"
   }
 }
